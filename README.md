@@ -2,6 +2,9 @@
 
 This program is a simple image editor built with Python. It provides a graphical user interface for performing various image editing operations, including uploading an image, resizing the image, converting the image to grayscale, blurring the image, performing edge detection on the image, rotating the image, adding text to the image, and saving the image.
 
+# How to Run?
+you can simply copy and paste the program and run, however, you will need to install the libraries mentioned bellow
+
 ## Libraries Used
 
 ### Tkinter
